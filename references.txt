@@ -1,0 +1,35 @@
+very helpful to understand what do what
+https://docs.unity3d.com/Manual/AssetStore.html
+
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418--pixeladventure 2 Assets
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360-- Assets
+https://assetstore.unity.com/packages/2d/environments/nature-pixel-art-base-assets-free-151370 --tilemaps 
+https://assetstore.unity.com/packages/2d/textures-materials/2d-flat-explosion-66932 -- explosion
+sounds
+https://mixkit.co/free-sound-effects/game/
+https://pixabay.com/sound-effects/search/game/
+ball assets
+https://kenney.nl/assets/rolling-ball-assets
+camera movements
+https://www.youtube.com/watch?v=2jTY11Am0Ig
+https://www.youtube.com/watch?v=FXqwunFQuao
+https://www.youtube.com/watch?v=PA5DgZfRsAM
+https://www.youtube.com/watch?v=REFQroKCTfU
+player movements
+https://www.youtube.com/watch?v=dwcT-Dch0bA
+https://www.youtube.com/watch?v=6xn0Sokihdc
+https://www.youtube.com/watch?v=yxzg8jswZ8A
+health & heathobject
+https://www.youtube.com/watch?v=vNL4WYgvwd8
+https://www.youtube.com/watch?v=yxzg8jswZ8A&list=RDCMUCpkMj5b5kl2_YApDvgUCVQQ&start_radio=1&rv=yxzg8jswZ8A&t=8
+https://www.youtube.com/watch?v=E2TACE460Ew
+traps
+https://www.youtube.com/watch?v=KF3EVjOhN4c
+https://www.youtube.com/watch?v=LnkjvLie-jA
+https://www.youtube.com/watch?v=5EesvCG9_FA
+moving platforms was giving some glictes and ended up not working
+https://www.youtube.com/watch?v=vua2a_Z3zlY
+scene mangment & audio
+https://www.youtube.com/watch?v=CE9VOZivb3I
+https://www.youtube.com/watch?v=-GWjA6dixV4
+https://www.youtube.com/watch?v=N8whM1GjH4w
